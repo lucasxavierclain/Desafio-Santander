@@ -25,16 +25,18 @@ git clone https://github.com/lucasxavierclain/Desafio-Santander.git
 
 ## Exemplos de postagem
 * POST  
-<img src="https://imgur.com/a/XFuu5fh" >  
+<img src="https://i.imgur.com/t9lCCfs.png" >  
 
 * GET
-<img src="https://imgur.com/a/Pe9nksY" > 
+<img src="https://i.imgur.com/Ebfo8bH.png" > 
 
 * PUT
-<img src="https://imgur.com/a/gfWrZgu" >
+<img src="https://i.imgur.com/MvhN7ol.png" >
 
 * DELETE
-<img src="https://imgur.com/a/wNsnzM6" >
+<img src="https://i.imgur.com/uxCxzeK.png" >  
+<img src="https://i.imgur.com/pM29hZT.png" >
 
 
+## Video da aplicação rodando
 
