@@ -35,7 +35,7 @@ git clone https://github.com/lucasxavierclain/Desafio-Santander.git
 
 ## Exemplos de postagem
 * POST  
-<img src="https://i.imgur.com/t9lCCfs.png" >  
+<img src="https://i.imgur.com/bwDkQ8J.png" >  
 
 * GET
 <img src="https://i.imgur.com/Ebfo8bH.png" > 
