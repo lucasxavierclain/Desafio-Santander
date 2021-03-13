@@ -49,6 +49,6 @@ git clone https://github.com/lucasxavierclain/Desafio-Santander.git
 
 
 ## Video da aplicação rodando
-# <a href="https://youtu.be/AY_7LR-EEog">Link do video<a/>
-
-https://youtu.be/AY_7LR-EEog
+<a href="https://youtu.be/AY_7LR-EEog">Link do video<a/>
+  
+[![Watch the video](https://img.youtube.com/vi/AY_7LR-EEog/maxresdefault.jpg)](https://youtu.be/AY_7LR-EEog)
