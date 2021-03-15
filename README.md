@@ -29,7 +29,8 @@ git clone https://github.com/lucasxavierclain/Desafio-Santander.git
 
 ## :pencil2: Como postar no BD localmente
 * Abra o Insomnia ou outra ferramenta de sua preferência
-* Coloque o endereço do servidor gerado (na minha máquina foi http://localhost:8080/clientes)
+* Coloque o endereço do servidor gerado (na minha máquina foi http://localhost:8080)
+* Coloque o diretório "/clientes" para acessar a rota
 * Insira as informações para um POST: "id","nome","idade","profissao".
 * Teste as outras funções do CRUD
 
