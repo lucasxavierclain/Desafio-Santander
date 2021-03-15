@@ -4,7 +4,7 @@ Desafio técnico para a construção de um CRUD utilizando Java 11
 <img src="https://www.santander.co.uk/themes/custom/santander_web18/logo.svg" alt="Capa">
 
 ## :hammer: Ferramentas e linguagem necessária para a executar o programa:  
-`<JDK Java 11 / Insomnia / IDE Eclipse / Spring Boot />`  
+`<JDK Java 11 / Insomnia / IDE Eclipse / Spring />`  
 
 ## 🚀 Instalando o CRUD localmente
 
